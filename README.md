@@ -5,7 +5,7 @@ Artificial intelligence helps to detect seismic events meaningfully, to predict 
 
 # Dataset
 The dataset was created by merging data from the public Kaggle source, divided by months until January 2019 and March 2020.
-The purpose of this dataset is to examine the date, latitude, longitude and depth fea64 tures of the historical data in order to estimate the earthquake magnitude in Turkey
+The purpose of this dataset is to examine the date, latitude, longitude and depth features of the historical data in order to estimate the earthquake magnitude in Turkey
 
 Datasets available on: https://www.kaggle.com/mielek/datasets?search=turkey+earthquake
 
