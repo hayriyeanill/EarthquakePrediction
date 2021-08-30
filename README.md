@@ -1,3 +1,4 @@
+# Artificial Intelligence Class
 # EarthquakePrediction
 
 The earthquake is the seismic fluctuations that occur as a result of the energy that happens spontaneously in the crust of the earth and the event of these waves shaking the earth. One of the main events in nature that causes both irretrievable financial and physical damage is the occurrence of earthquakes. Predicting the earthquake is very important in terms of preventing loss of life in order to protect human life. In the event of an earthquake that may occur in the future, warning people beforehand and taking the necessary precautions can prevent major damage and loss of life. 
